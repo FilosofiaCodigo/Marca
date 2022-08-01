@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="658.84821mm"
    height="370.60211mm"
    viewBox="0 0 658.8482 370.60211"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="Logo.svg">
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="Logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2">
     <rect
@@ -33,8 +33,8 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter1759-3"
-       x="-0.10100093"
-       width="1.2020019"
+       x="-0.10100081"
+       width="1.2020016"
        y="-0.14753328"
        height="1.2950666">
       <feGaussianBlur
@@ -46,10 +46,10 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter1219"
-       x="-0.035656445"
-       width="1.0713129"
-       y="-0.21663821"
-       height="1.4332764">
+       x="-0.035682378"
+       width="1.0713648"
+       y="-0.21636518"
+       height="1.4327304">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="3.7506524"
@@ -59,14 +59,27 @@
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
        id="filter1223"
-       x="-0.059203643"
-       width="1.1184072"
-       y="-0.22081195"
-       height="1.4416239">
+       x="-0.058614108"
+       width="1.1172282"
+       y="-0.22241203"
+       height="1.4448241">
       <feGaussianBlur
          inkscape:collect="always"
          stdDeviation="3.7506524"
          id="feGaussianBlur1225" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1759-3-2"
+       x="-0.10100081"
+       width="1.2020016"
+       y="-0.14753328"
+       height="1.2950666">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="5.1677335"
+         id="feGaussianBlur1761-6-6" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -77,18 +90,19 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.18452665"
-     inkscape:cx="4322.0131"
-     inkscape:cy="-1326.1904"
+     inkscape:cx="5332.5631"
+     inkscape:cy="742.44018"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
-     inkscape:window-width="1848"
-     inkscape:window-height="1016"
-     inkscape:window-x="72"
-     inkscape:window-y="27"
+     inkscape:window-width="1366"
+     inkscape:window-height="697"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:snap-global="false" />
+     inkscape:snap-global="false"
+     inkscape:pagecheckerboard="0" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -159,7 +173,7 @@
     <text
        xml:space="preserve"
        id="text32"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect34);fill:#000000;fill-opacity:1;stroke:none;" />
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect34);fill:#000000;fill-opacity:1;stroke:none" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:55.2556px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.38139"
@@ -842,7 +856,7 @@
     <text
        xml:space="preserve"
        id="text1099"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1101);fill:#000000;fill-opacity:1;stroke:none;" />
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1101);fill:#000000;fill-opacity:1;stroke:none" />
     <rect
        style="fill:#000000;stroke-width:1.32292"
        id="rect18-3"
@@ -975,5 +989,191 @@
          x="5211.7222"
          y="-700.49115"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'League Spartan';-inkscape-font-specification:'League Spartan Bold';fill:#000000;stroke-width:2.05407">{Fí}</tspan></text>
+    <rect
+       style="fill:#000000;stroke-width:1.32292"
+       id="rect18-3-4"
+       width="190.11401"
+       height="190.11401"
+       x="3916.2793"
+       y="-897.06091"
+       inkscape:export-xdpi="200.41"
+       inkscape:export-ydpi="200.41" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:82.1627px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.05407"
+       x="3939.1975"
+       y="-773.14575"
+       id="text16-6-1"
+       inkscape:export-xdpi="68.410004"
+       inkscape:export-ydpi="68.410004"><tspan
+         sodipodi:role="line"
+         id="tspan14-7-8"
+         x="3939.1975"
+         y="-773.14575"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'League Spartan';-inkscape-font-specification:'League Spartan Bold';fill:#ffffff;stroke-width:2.05407">{Fí}</tspan></text>
+    <g
+       id="g959-7-9"
+       transform="matrix(1.7150313,0,0,1.7150313,2630.4546,2.806891)"
+       inkscape:export-filename="C:\Users\50496\Desktop\Emely\Trabajo\g959-7-9.png"
+       inkscape:export-xdpi="79.242973"
+       inkscape:export-ydpi="79.242973">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:75.0591px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.87646;filter:url(#filter1759-3-2)"
+         x="1770.3907"
+         y="-265.3385"
+         id="text54-1-3-7-5-1"
+         inkscape:export-xdpi="68.410004"
+         inkscape:export-ydpi="68.410004"
+         transform="matrix(0.64830494,0,0,0.64830494,357.93349,41.736464)"><tspan
+           sodipodi:role="line"
+           id="tspan52-8-8-0-3-1"
+           x="1770.3907"
+           y="-265.3385"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'League Spartan';-inkscape-font-specification:'League Spartan Bold';fill:#000000;stroke-width:1.87646">{Fí}</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:75.0591px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.87646;filter:url(#filter1759-3-2)"
+         x="1770.3907"
+         y="-265.3385"
+         id="text1765-5-5"
+         inkscape:export-xdpi="68.410004"
+         inkscape:export-ydpi="68.410004"
+         transform="matrix(0.64830494,0,0,0.64830494,357.93349,41.736464)"><tspan
+           sodipodi:role="line"
+           id="tspan1763-6-4"
+           x="1770.3907"
+           y="-265.3385"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'League Spartan';-inkscape-font-specification:'League Spartan Bold';fill:#000000;stroke-width:1.87646">{Fí}</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:75.0591px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.87646;filter:url(#filter1759-3-2)"
+         x="1770.3907"
+         y="-265.3385"
+         id="text1769-2-1"
+         inkscape:export-xdpi="68.410004"
+         inkscape:export-ydpi="68.410004"
+         transform="matrix(0.64830494,0,0,0.64830494,357.93349,41.736464)"><tspan
+           sodipodi:role="line"
+           id="tspan1767-9-5"
+           x="1770.3907"
+           y="-265.3385"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'League Spartan';-inkscape-font-specification:'League Spartan Bold';fill:#000000;stroke-width:1.87646">{Fí}</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:75.0591px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.87646;filter:url(#filter1759-3-2)"
+         x="1770.3907"
+         y="-265.3385"
+         id="text1773-1-4"
+         inkscape:export-xdpi="68.410004"
+         inkscape:export-ydpi="68.410004"
+         transform="matrix(0.64830494,0,0,0.64830494,357.93349,41.736464)"><tspan
+           sodipodi:role="line"
+           id="tspan1771-27-9"
+           x="1770.3907"
+           y="-265.3385"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'League Spartan';-inkscape-font-specification:'League Spartan Bold';fill:#000000;stroke-width:1.87646">{Fí}</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:75.0591px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.87646;filter:url(#filter1759-3-2)"
+         x="1770.3907"
+         y="-265.3385"
+         id="text1777-09-1"
+         inkscape:export-xdpi="68.410004"
+         inkscape:export-ydpi="68.410004"
+         transform="matrix(0.64830494,0,0,0.64830494,357.93349,41.736464)"><tspan
+           sodipodi:role="line"
+           id="tspan1775-3-2"
+           x="1770.3907"
+           y="-265.3385"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'League Spartan';-inkscape-font-specification:'League Spartan Bold';fill:#000000;stroke-width:1.87646">{Fí}</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:75.0591px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.87646;filter:url(#filter1759-3-2)"
+         x="1770.3907"
+         y="-265.3385"
+         id="text1781-6-1"
+         inkscape:export-xdpi="68.410004"
+         inkscape:export-ydpi="68.410004"
+         transform="matrix(0.64830494,0,0,0.64830494,357.93349,41.736464)"><tspan
+           sodipodi:role="line"
+           id="tspan1779-0-1"
+           x="1770.3907"
+           y="-265.3385"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'League Spartan';-inkscape-font-specification:'League Spartan Bold';fill:#000000;stroke-width:1.87646">{Fí}</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:75.0591px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.87646;filter:url(#filter1759-3-2)"
+         x="1770.3907"
+         y="-265.3385"
+         id="text1785-6-8"
+         inkscape:export-xdpi="68.410004"
+         inkscape:export-ydpi="68.410004"
+         transform="matrix(0.64830494,0,0,0.64830494,357.93349,41.736464)"><tspan
+           sodipodi:role="line"
+           id="tspan1783-2-3"
+           x="1770.3907"
+           y="-265.3385"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'League Spartan';-inkscape-font-specification:'League Spartan Bold';fill:#000000;stroke-width:1.87646">{Fí}</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:48.6612px;line-height:1.25;font-family:sans-serif;mix-blend-mode:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.21652"
+         x="1505.6864"
+         y="-130.28378"
+         id="text1789-6-4"
+         inkscape:export-xdpi="68.410004"
+         inkscape:export-ydpi="68.410004"><tspan
+           sodipodi:role="line"
+           id="tspan1787-1-6"
+           x="1505.6864"
+           y="-130.28378"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'League Spartan';-inkscape-font-specification:'League Spartan Bold';fill:#ffffff;stroke-width:1.21652">{Fí}</tspan></text>
+    </g>
+    <g
+       id="g5107"
+       inkscape:export-filename="C:\Users\50496\Desktop\Emely\Trabajo\g5107.png"
+       inkscape:export-xdpi="78.57"
+       inkscape:export-ydpi="78.57">
+      <g
+         id="g4363"
+         style="opacity:0.5">
+        <rect
+           style="fill:#000000;stroke-width:1.1518"
+           id="rect50-8"
+           width="165.52205"
+           height="165.52205"
+           x="4976.7188"
+           y="-328.43158"
+           inkscape:export-xdpi="78.57"
+           inkscape:export-ydpi="78.57" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:82.1627px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.05407"
+           x="4987.3413"
+           y="-216.81244"
+           id="text54-6"
+           inkscape:export-xdpi="68.410004"
+           inkscape:export-ydpi="68.410004"><tspan
+             sodipodi:role="line"
+             id="tspan52-81"
+             x="4987.3413"
+             y="-216.81244"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'League Spartan';-inkscape-font-specification:'League Spartan Bold';fill:#ffffff;stroke-width:2.05407">{Fí}</tspan></text>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:124.424px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.11059"
+       x="4897.1831"
+       y="39.712524"
+       id="text54-1-6-7-9"
+       inkscape:export-xdpi="63.887527"
+       inkscape:export-ydpi="63.887527"
+       inkscape:export-filename="C:\Users\50496\Desktop\Emely\Trabajo\yu.png"><tspan
+         sodipodi:role="line"
+         id="tspan52-8-4-8-6"
+         x="4897.1831"
+         y="39.712524"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'League Spartan';-inkscape-font-specification:'League Spartan Bold';fill:#000000;stroke-width:3.11059;fill-opacity:1">{Fí}</tspan></text>
   </g>
 </svg>
